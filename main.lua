@@ -1,13 +1,4 @@
 ([[
-                This script has been licensed using Luauth
-            Unauthorized distribution of this script is forbidden.
-      Any attempts at tampering, reverse engineering or modifying this script's 
-      internal logic will result in a global ban, and make you blacklisted from
-            every single script that has been licensed with Luauth
-
-        Luauth v1.8b for Roblox, #1 lua whitelisting system by Federal#9999
-				   https://luauth.xyz/
-
       ____                   ____                     ____             _    
      |  _ \ ___ _ __ ___    / ___|___  _ __ ___   ___| __ )  __ _  ___| | __
      | |_) / _ \ '_ ` _ \  | |   / _ \| '_ ` _ \ / _ \  _ \ / _` |/ __| |/ /
@@ -16,7 +7,9 @@
                                                                             
 
                                                      
-                 Script ID: e81ed9e27b4a71e656556fc59781d395
+                 > Xelisty Sick Duck : true
+                 > Sociopath = true
+                 > https://ayo.so/mene
 ]])
 
 
